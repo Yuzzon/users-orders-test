@@ -1,0 +1,7 @@
+export const SHOW_LOADER = 'SHOW_LOADER'
+export const HIDE_LOADER = 'HIDE_LOADER'
+export const FETCH_USERS = 'FETCH_USERS'
+export const SET_PAGE = 'SET_PAGE'
+export const GET_ORDERS = 'GET_ORDERS'
+export const OPEN_MODAL = 'OPEN_MODAL'
+export const CLOSE_MODAL = 'CLOSE_MODAL'
